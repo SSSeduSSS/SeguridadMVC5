@@ -1,0 +1,48 @@
+﻿
+
+ul {
+    list-style: none;
+}
+
+
+#navSuper {
+    background-color: #FFF59C;
+}
+
+.midLinkNav {
+    border-left: dotted 1px;
+    border-right: dotted 1px;
+}
+
+.preNav {
+    background-color: #fffacd;
+    height: 100px;
+}
+
+#LogoPreNav {
+    width: 220px;
+    height: 110px;
+}
+
+#linkStyleNav {
+    margin-left:80px;
+    color: black;
+    font-weight: 600;
+}
+
+.preNavRRSS {
+    padding-top: 10px;
+}
+
+.WrapperUser {
+    padding-top: 15px;
+}
+
+.desplegableUser {
+    color: black;
+}
+
+    .desplegableUser:hover {
+        color: black !important;
+        text-decoration: none;
+    }
